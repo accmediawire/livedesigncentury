@@ -33,7 +33,7 @@ input[type="text"], input[type="email"], input[type="tel"], textarea {
 
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #4daade;
+  background-color: #464646;
   border-color: #4daade;
 }
 
